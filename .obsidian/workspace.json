@@ -89,7 +89,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "Terminal: C:\\Windows\\System32\\conhost.exe"
+                  "title": "Terminal: C:\\Windows\\system32\\cmd.exe"
                 }
               }
             ]
